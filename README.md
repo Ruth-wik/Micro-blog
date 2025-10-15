@@ -1,13 +1,13 @@
 # Micro-blog
 
 
-###Contents (so far):
+### Contents (so far):
 
 - Basic Flask app setup
 
 - Routing and view functions
 
-###How to run:
+### How to run:
 
 1. Create and activate a virtual environment
 
