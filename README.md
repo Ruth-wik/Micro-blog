@@ -1,2 +1,18 @@
 # Micro-blog
-This is a Flask microblog application built following Miguel Grinberg’s Flask Mega-Tutorial. It starts from a minimal “Hello, World!” app and progressively adds features such as templates, forms, user authentication, database models, error handling, etc.
+
+
+###Contents (so far):
+
+- Basic Flask app setup
+
+- Routing and view functions
+
+###How to run:
+
+1. Create and activate a virtual environment
+
+2. "pip install flask"
+
+3. Use the included .flaskenv file (FLASK_APP=microblog.py)
+
+4. "flask run"
